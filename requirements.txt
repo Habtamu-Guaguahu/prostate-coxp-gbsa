@@ -6,3 +6,4 @@ scipy
 scikit-learn==1.5.2
 joblib
 lifelines
+scikit-survival
